@@ -1,4 +1,4 @@
-module tableimage
+module github.com/vucchaid/go-gen-table-image
 
 go 1.12
 
