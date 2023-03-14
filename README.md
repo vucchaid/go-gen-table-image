@@ -23,7 +23,7 @@ Generates a table inside of a image (png or jpg format) based on the provided da
 package main
 
 import (
-	"tableimage"
+	tableimage "github.com/vucchaid/go-gen-table-image"
 )
 
 func main() {
