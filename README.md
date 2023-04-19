@@ -2,7 +2,7 @@
 
 Generates a table inside of a image (png or jpg format) based on the provided data
 
-[![GoDoc](https://godoc.org/github.com/techbinator/go-table-image?status.svg)](https://godoc.org/github.com/techbinator/go-table-image)
+[![Go Report Card](https://goreportcard.com/badge/vucchaid/go-gen-table-image)](https://goreportcard.com/report/vucchaid/go-gen-table-image) [![GoDoc](https://godoc.org/github.com/techbinator/go-table-image?status.svg)](https://godoc.org/github.com/techbinator/go-table-image)
 
 ### Goals
 
