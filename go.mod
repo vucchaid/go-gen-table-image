@@ -1,5 +1,5 @@
 module github.com/vucchaid/go-gen-table-image
 
-go 1.12
+go 1.20
 
-require golang.org/x/image v0.0.0-20190802002840-cff245a6509b
+require golang.org/x/image v0.7.0

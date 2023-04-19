@@ -37,7 +37,7 @@ func (ti *tableImage) drawTR() {
 				colWidth := colNo*columnSpace + tablePadding
 
 				if colNo == 0 {
-					colWidth = columnSpace - columnSpace + tablePadding
+					colWidth = tablePadding
 				}
 
 				ti.addString(colWidth, colHeight, wrapedText, td.Color)
