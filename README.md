@@ -4,6 +4,8 @@ Generates a table inside of a image (png or jpg format) based on the provided da
 
 [![Go Report Card](https://goreportcard.com/badge/vucchaid/go-gen-table-image)](https://goreportcard.com/report/vucchaid/go-gen-table-image) [![GoDoc](https://godoc.org/github.com/vucchaid/go-gen-table-image?status.svg)](https://godoc.org/github.com/vucchaid/go-gen-table-image)
 
+> Forked from "Techbinator/go-table-image"
+
 ### Goals
 
 - Provide a simple interface in order to generate tables as image programatically
